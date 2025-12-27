@@ -22,6 +22,7 @@ Navegue até a raiz do projeto (onde este README está localizado) e execute o c
 
 ```bash
 g++ src/*.cpp -o compilador
+```
 
 ## Integrantes
 
